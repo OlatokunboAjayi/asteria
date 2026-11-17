@@ -1,10 +1,10 @@
 # Asteria
 
-[![CI](https://github.com/tokunboajayi/asteria/actions/workflows/ci.yml/badge.svg)](https://github.com/tokunboajayi/asteria/actions/workflows/ci.yml)
+[![CI](https://github.com/OlatokunboAjayi/asteria/actions/workflows/ci.yml/badge.svg)](https://github.com/OlatokunboAjayi/asteria/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Demo](https://img.shields.io/badge/demo-live-5fb4ff.svg)](https://tokunboajayi.github.io/asteria/)
+[![Demo](https://img.shields.io/badge/demo-live-5fb4ff.svg)](https://olatokunboajayi.github.io/asteria/)
 
-**Live demo: https://tokunboajayi.github.io/asteria/**. The rocket console, rebuilt
+**Live demo: https://olatokunboajayi.github.io/asteria/**. The rocket console, rebuilt
 from source and hash-verified by CI on every release. Storm Ghost (orbits) runs
 locally only: it needs your own Space-Track login, and Space-Track's agreement does
 not allow redistributing its data.

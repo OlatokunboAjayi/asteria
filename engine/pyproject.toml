@@ -30,7 +30,7 @@ dependencies = [
 # academic, non-commercial use only. Commercial deployments: do not install this extra.
 model = ["pymsis>=0.10"]
 [project.urls]
-Repository = "https://github.com/tokunboajayi/asteria"
+Repository = "https://github.com/OlatokunboAjayi/asteria"
 
 [project.scripts]
 asteria = "asteria.cli:main"
